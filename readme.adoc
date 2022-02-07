@@ -20,3 +20,34 @@
 |Cell in column 1, row 2
 |Cell in column 2, row 2
 |===
+
+= Document Title
+:table-caption: Data Set
+
+.A table with a title
+[cols="2,1"]
+|===
+|Lots and lots of data |A little data
+
+|834,734 |3
+|3,999,271.5601 |5
+|===
+
+|===
+|Group |Climate |Example
+
+|A
+|Tropical
+|Suva, Fiji
+
+|B
+|Arid
+|Lima, Peru
+|===
+
+.Another table with a title
+|===
+|Value |Result |Notes
+
+|Null |A mystery |See Appendix R
+|===
