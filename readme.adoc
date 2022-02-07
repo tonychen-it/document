@@ -51,3 +51,24 @@
 
 |Null |A mystery |See Appendix R
 |===
+
+
+= Title of Document
+:table-caption!:
+
+.A table with a title but no label
+|===
+|Value |Result |Notes
+
+|Null |A mystery |See Appendix R
+|===
+
+[caption=]
+.A table with a title but no label
+[cols="2,1"]
+|===
+|Lots and lots of data |A little data
+
+|834,734 |3
+|3,999,271.5601 |5
+|===
