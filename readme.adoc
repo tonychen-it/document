@@ -72,3 +72,25 @@
 |834,734 |3
 |3,999,271.5601 |5
 |===
+
+
+[cols="3,3,3,3"]
+|===
+|Column 1 |Column 2 |Column 3 |Column 4
+
+|Cell in column 1
+|Cell in column 2
+|Cell in column 3
+|Cell in column 4
+|===
+
+
+[cols="5,3*"]
+|===
+|Column 1 |Column 2 |Column 3 |Column 4
+
+|Cell in column 1
+|Cell in column 2
+|Cell in column 3
+|Cell in column 4
+|===
